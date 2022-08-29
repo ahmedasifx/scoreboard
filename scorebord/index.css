@@ -1,0 +1,156 @@
+
+@font-face {
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Cursed Timer ULiL'), url('https://fonts.cdnfonts.com/s/40642/CursedTimerUlil-Aznm.woff') format('woff');
+}
+body {
+    margin: 0;
+    color: black;
+    
+}
+
+.float-container {
+    display: flex;
+    justify-content: space-around;
+    position: center;
+    width: 575px;
+    height: 385px;
+    color: white;
+
+    background: #1B244A;
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+    
+    
+}
+
+
+ 
+.h3{
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 100cm;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+
+}
+.float-block{
+   position: left;
+   width: 155px;
+   height: 120px;
+    left: 82px;
+    top: 125px;
+    background-color: black;
+font-family: 'Cursed Timer ULiL', sans-serif;;
+font-weight: 400;
+font-size:90px;
+
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+color: #F94F6D;
+    
+    
+}
+.p{
+    
+position: absolute;
+width: 117px;
+height: 120px;
+left: 100px;
+top: 125px;
+
+
+
+}
+
+
+
+
+.but{
+position: absolute;
+width: 155px;
+height: 45px;
+left: 82px;
+top: 271px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+box-sizing: border-box;
+background: #1B244A;
+
+
+border: 2px solid #9AABD8;
+border-radius: 5px;
+
+}
+
+button{
+ 
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+box-sizing: border-box;
+background: #1B244A;
+
+
+border: 2px solid #9AABD8;
+border-radius: 5px;
+
+}
+
+.but1{
+position: absolute;
+width: 155px;
+height: 45px;
+left: 37-px;
+top: 271px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+box-sizing: border-box;
+background: #1B244A;
+
+
+border: 2px solid #9AABD8;
+border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
